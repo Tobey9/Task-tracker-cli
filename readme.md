@@ -9,7 +9,7 @@ Built-in node.js tools
 ### 1. Clone or download the file
 
 ```bash
-git clone https://github.com/Tobey9/task-tracker-cli.git
+git clone https://github.com/Tobey9/Task-tracker-cli.git
 cd task-tracker-cli
 ```
 
