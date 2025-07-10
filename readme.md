@@ -1,10 +1,12 @@
-#Task Tracker CLI
+# Task Tracker CLI
+
 A simple task tracker CLI
 
-##TOOLS
+## TOOLS
+
 Built-in node.js tools
 
-##HOW TO USE
+## HOW TO USE
 
 ### 1. Clone or download the file
 
